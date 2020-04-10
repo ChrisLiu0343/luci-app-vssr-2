@@ -197,5 +197,3 @@ exit 0
 endef
 
 $(eval $(call BuildPackage,luci-app-vssr))
-
-
